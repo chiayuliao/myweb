@@ -1,0 +1,19 @@
+.box_model{
+  height: 300px;
+  width:900px;
+}
+.back_to_init{
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  width: 150px;
+  background-color: yellow;
+}
+.border{
+  border-style:double;
+  border-color: blue;
+  background-color: pink;
+}
+.inline{
+  display: inline-block;
+}
